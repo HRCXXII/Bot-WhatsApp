@@ -51,7 +51,7 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
+> git clone https://github.com/HRCXXII/Bot-WhatsApp
 > cd vvipbot-wa
 ```
 Lanjutkan dengan
@@ -186,8 +186,8 @@ Terakhir scan kode QR
 | Owner|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/agus.alnsyh71)
-* My whatsapp [Agus Aliansyah](https://wa.me/6289613469459)
+* [Youtube](https://www.youtube.com/@hrcreator22)
+* My whatsapp [HarmanRRC](https://wa.me/6282199326022)
 
 
 ## Terimakasih untuk
